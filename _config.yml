@@ -1,7 +1,7 @@
 # Site settings
 title:          a quiet place
 description:    "Only time could tell."
-baseurl:        "/tale"
+baseurl:        ""
 url:            "https://lijianqiang.com"
 
 # Google Analytics
