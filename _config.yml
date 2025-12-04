@@ -23,6 +23,15 @@ sass:
   sass_dir:     _sass
   style:        compressed
 
+
+remote_theme: chesterhow/tale
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+
+
 # Gems
 plugins:
   - jekyll-feed
